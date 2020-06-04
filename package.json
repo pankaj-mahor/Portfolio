@@ -1,0 +1,14 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "compile-css":"sass --watch sass/main.scss:css/main.css"
+  },
+  "author": "pankaj",
+  "license": "ISC",
+  "devDependencies": {
+    "saas": "^1.0.0"
+  }
+}

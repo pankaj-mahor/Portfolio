@@ -1,0 +1,3 @@
+animate__animated animate__slideInLeft animate__lightSpeedInLeft
+
+intro -- animate__animated animate__fadeInDownBig
